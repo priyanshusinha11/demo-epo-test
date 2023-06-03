@@ -1,2 +1,2 @@
 # Algorithms
-Some famous data structures and algoithms
+Some famous data structures and algoithms!
